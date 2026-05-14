@@ -1,0 +1,11 @@
+paddleocr
+paddlepaddle
+opencv-python
+PyMuPDF
+numpy
+pandas
+openpyxl
+rapidfuzz
+scikit-learn
+python-dotenv
+openai

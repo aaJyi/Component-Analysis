@@ -1,0 +1,956 @@
+[
+  {
+    "name": "X1:185226-1(黄)",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "排放故障报警-",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "发动机预热指示+",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "发动机预热指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "排放故障报警+",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "制动蹄片磨损报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "机械指针表",
+    "category": "instrument",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "运光灯指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "上装举升蜂鸣器报警",
+    "category": "buzzer",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "车速表",
+    "category": "instrument",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "电源输出（车速传感器）",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "电源输出（气压传感器）",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "电源（ON档）",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "电源(蓄电池)",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "右转向指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "左转向指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "燃油表",
+    "category": "instrument",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "指示刻度值(°C)",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "驾驶室翻转报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "水温表",
+    "category": "instrument",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "搭铁（气压传感器）",
+    "category": "sensor",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "电源（仪表照明）",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "250KBPS",
+    "category": "can_node",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "指示刻度值（X0.1MPA)",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "搭铁 (仪表）",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "机械式",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "气压表",
+    "category": "instrument",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "X2:185226-2(蓝)",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "LED1~LED3",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "LED1~LED4",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "LED1",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "指示灯点亮状态（绿色）",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "LED1~LED2",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "尿素液位值(下行。熄灭)",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "尿素液位值（上行，点亮)",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "蓄电池充电指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "冷却液液位报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "尿素液位",
+    "category": "sensor",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "驻车制动指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "轮间差速器指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "安全带未系报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "发动机故障报警-（黄色)",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "燃油滤清器堵塞报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "发动机故障报警+(黄色）",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "轴间差速器指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "ABS1（主车）指示",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "油水分高报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "ASR报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "取力器工作指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "制动系统故障报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "空气滤清器堵塞报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "低速档指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "车门报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "STOP放降指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "燃滤堵塞警报",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "空波器堵赛教护",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "液晶屏显示内容",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "小计里程",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "里程信息",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "总里程分",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "按键功能",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "按键1",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "长按按键",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "点按按键",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "按键2",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "辅助制动指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "取力器指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "发动机预热",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "ASR指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "远光指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "冷却液位报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "DPF再生状态指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "DPF碳载量指示",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "尿素液位指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "油压报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "尿素液位过低警报",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "冷却液温度报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "ABS1(主车)报警",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "驾驶员提醒指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "排放故障报警",
+    "category": "alarm",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "发动机故障指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "遇航指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "车门指示指示",
+    "category": "indicator",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "组合仪表总成",
+    "category": "module",
+    "confidence": 0.95,
+    "page": 1
+  },
+  {
+    "name": "JF03-26",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "F8",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J12",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J8辅助功率继电器川4后雾灯继电器JO尿素管路加热继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "19智能传感器继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "灯光控制开关近光灯档",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "车门控制器",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "暖风继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J2刮水继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J3雾灯继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J5远光继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J6尾灯继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "儿刮水继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "川空调压缩机继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J3各用继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "J4近光继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "7喇叭继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "共40路保险丝14个继电器",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "宝ECU输出供电21",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "智能传感器",
+    "category": "sensor",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "空调面板",
+    "category": "module",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "电源供！",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "DA(1",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "口BCM2",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "）要风开关",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "保险丝盒贴标签，其零件号应清晰：粘贴牢固",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "60A(4个)、175A1个)",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "共5个备用大容量熔断器重壹放置在此",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "F7 691",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "F1 304",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "4压御装电机",
+    "category": "motor",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "F3 15",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "F6 175A",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "ABS",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "10A片式熔断器采用3722012-50",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "20A片式熔断器采用3722014-50",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "继电卷插座应符合371030-240、372210-671继电器安装夏求",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "点火开关费电",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "盛盘体断器金总盛（式样图）",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "H33囊动机ECU",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "L928各用维电暴控制-",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "B3联素管降加热",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "3奥歌宝端断暴金餐电",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "12 .304",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "3各用继电暴输图",
+    "category": "relay",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "L328 推例",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "2H5",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "LBA",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "L82A 控例-",
+    "category": "circuit_function_name",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "电线束端适配插接器型号",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "1002023/69",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "1202023/69",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "120023/69",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "080023/69",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "140023/69",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "1203023/69",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "0I0302094",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 3
+  },
+  {
+    "name": "线束侧插接件型号",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "X36A",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "驾驶室熔断器盒",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "驾驰室熔断器盒",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "驾驶室熔断器食",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "秋室熔断婴盒",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "学室熔断",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "驾驶室熔断器盒总成（式样图）",
+    "category": "fuse",
+    "confidence": 0.95,
+    "page": 2
+  },
+  {
+    "name": "多动能方向量开关[]",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 6
+  },
+  {
+    "name": "向盘开关C5",
+    "category": "switch",
+    "confidence": 0.95,
+    "page": 8
+  },
+  {
+    "name": "尿素品质传感器",
+    "category": "sensor",
+    "confidence": 0.95,
+    "page": 9
+  },
+  {
+    "name": "EBS首轴模块",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 10
+  },
+  {
+    "name": "ABS传感器用电缆线长度为1000",
+    "category": "controller",
+    "confidence": 0.95,
+    "page": 12
+  },
+  {
+    "name": "仪表板电线束与左车身电线東总威插接",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 13
+  },
+  {
+    "name": "假表板电线束与右底盘电线束对接插接器",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 14
+  },
+  {
+    "name": "右底盘电线束与发动机电线束总成插接器",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 14
+  },
+  {
+    "name": "仪表板电线束与右底盘电线束对接活接器",
+    "category": "connector",
+    "confidence": 0.95,
+    "page": 14
+  },
+  {
+    "name": "组合仪表",
+    "category": "instrument",
+    "confidence": 0.95,
+    "page": 14
+  }
+]
